@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -eu
+set -eux
 
 APT_CONF_FILE=/etc/apt/apt.conf.d/50build-deb-action
 
